@@ -1,0 +1,5 @@
+*.RData
+desktop.ini
+*.Rhistory
+r-programming/PA1/specdata/*
+r-programming/PA3/rprog-data-ProgAssignment3-data/*
